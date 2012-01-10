@@ -1,0 +1,12 @@
+
+Arguments run on functions
+
+	  IO version: tyrant.hs
+	     tyrant [1..1000]
+	  Compiled threaded, not -O2
+	  $ ./tyrant +RTS -ls -N2
+
+	  IO version: bully.hs
+	     bully [1..1000]
+	  Compiled threaded, not -O2
+	  $ ./bully +RTS -ls -N2
