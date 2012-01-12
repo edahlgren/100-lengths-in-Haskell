@@ -3,8 +3,14 @@ Arguments run on functions
 
 	  IO version: tyrant.hs
 	     tyrant [1..1000]
-	  Compiled threaded, not -O2
 	  $ ./tyrant +RTS -ls -N2
+
+	  a. tyrant.eventlog.png
+	  Compiled threaded, not -O2
+	  b. tyrantOP.eventlog.png
+	  Compiled threaded and -O2
+	  
+
 
 	  IO version: bully.hs
 	     bully [1..1000]
