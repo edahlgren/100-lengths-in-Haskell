@@ -1,12 +1,2 @@
 
-This is an ambitious project to come up with 100 Haskell implementations of length of list.  It involves thinking about a very simple problem incredibly creatively, requiring better and better knowledge of Haskell to pull this off.  
-
-Objectives:
-
-     - 100 lengths functions in Haskell
-     - Comparison of what makes a good and bad length function
-     - Description of different types of monads
-     - Runtime, Big O notation, and general complexity notes on each function
-     - Repetition of the problem in each new function: should
-       help those learning Haskell compare new concepts to old ones easily
-     - Creativity and fun
+This is a project to design 100 Haskell implementations of length for lists.  It involves thinking about a very simple problem with increasing creativity, requiring better and better knowledge of Haskell.  
